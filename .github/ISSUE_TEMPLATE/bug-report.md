@@ -1,7 +1,6 @@
 ---
-name: 2 - Bug report
-about: Describe a bug in this plugin. To describe a bug in force:source:pull create
-  a Feature Request
+name: Bug report
+about: Describe a use case where force:source:pull doesn't work
 title: ''
 labels: bug
 assignees: ''
