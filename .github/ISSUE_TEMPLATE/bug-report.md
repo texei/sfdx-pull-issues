@@ -2,7 +2,6 @@
 name: Bug report
 about: Describe a use case where force:source:pull doesn't work
 title: ''
-labels: bug
 assignees: ''
 
 ---
